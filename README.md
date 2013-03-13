@@ -1,18 +1,18 @@
-FWlib-dev
+WIZlib
 =========
 FW Library Development Repo
 Enjoy the open library for WIZnet chips.
 
 ## How To Get Started
 
-- [Download FWlib](https://github.com/ConvTeam/FWlib-dev/) and example apps
+- Download [WIZlib Source Code](https://github.com/ConvTeam/WIZlib/)
 - Read the ["Getting Started" guide](https://github.com/ConvTeam/WIZlib/wiki/Getting-Started-with-WIZlib)
 - Read the ["API Reference" guide](http://convteam.github.com/WIZlib)
 - Read and visit [WIZnet Q&A](http://www.wiznet.co.kr)
 
 ## Credits
 
-And most of all, thanks to WIZnet's [growing list of contributors](https://github.com/ConvTeam/FWlib-dev/contributors).
+And most of all, thanks to WIZnet's [growing list of contributors](https://github.com/ConvTeam/WIZlib/contributors).
 
 ## Contact
 
