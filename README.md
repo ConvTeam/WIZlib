@@ -28,5 +28,5 @@ please contact <support@wiznet.co.kr>
 
 ## License
 
-FWlib-dev is available under the MIT license. See the LICENSE file for more info.
+WIZlib is available under the MIT license. See the LICENSE file for more info.
 
