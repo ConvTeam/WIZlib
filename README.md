@@ -1,6 +1,6 @@
 WIZlib
 =========
-FW Library Development Repo
+WIZlib Library Release Repo
 Enjoy the open library for WIZnet chips.
 
 ## How To Get Started
